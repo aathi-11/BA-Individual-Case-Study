@@ -1,0 +1,402 @@
+company_name,nse_symbol,raw_industry,sector,index_source,screener_url
+360 ONE WAM Ltd.,360ONE,Financial Services,Banking,NIFTY_MIDCAP_150,https://www.screener.in/company/360ONE/consolidated/
+3M India Ltd.,3MINDIA,Diversified,Other,NIFTY_MIDCAP_150,https://www.screener.in/company/3MINDIA/consolidated/
+ACC Ltd.,ACC,Construction Materials,Manufacturing,NIFTY_MIDCAP_150,https://www.screener.in/company/ACC/consolidated/
+AIA Engineering Ltd.,AIAENG,Capital Goods,Manufacturing,NIFTY_MIDCAP_150,https://www.screener.in/company/AIAENG/consolidated/
+APL Apollo Tubes Ltd.,APLAPOLLO,Capital Goods,Manufacturing,NIFTY_MIDCAP_150,https://www.screener.in/company/APLAPOLLO/consolidated/
+AU Small Finance Bank Ltd.,AUBANK,Financial Services,Banking,NIFTY_MIDCAP_150,https://www.screener.in/company/AUBANK/consolidated/
+AWL Agri Business Ltd.,AWL,Fast Moving Consumer Goods,Other,NIFTY_MIDCAP_150,https://www.screener.in/company/AWL/consolidated/
+Abbott India Ltd.,ABBOTINDIA,Healthcare,Pharma,NIFTY_MIDCAP_150,https://www.screener.in/company/ABBOTINDIA/consolidated/
+Adani Total Gas Ltd.,ATGL,Oil Gas & Consumable Fuels,Other,NIFTY_MIDCAP_150,https://www.screener.in/company/ATGL/consolidated/
+Aditya Birla Capital Ltd.,ABCAPITAL,Financial Services,Banking,NIFTY_MIDCAP_150,https://www.screener.in/company/ABCAPITAL/consolidated/
+Ajanta Pharmaceuticals Ltd.,AJANTPHARM,Healthcare,Pharma,NIFTY_MIDCAP_150,https://www.screener.in/company/AJANTPHARM/consolidated/
+Alkem Laboratories Ltd.,ALKEM,Healthcare,Pharma,NIFTY_MIDCAP_150,https://www.screener.in/company/ALKEM/consolidated/
+Anthem Biosciences Ltd.,ANTHEM,Healthcare,Pharma,NIFTY_MIDCAP_150,https://www.screener.in/company/ANTHEM/consolidated/
+Apar Industries Ltd.,APARINDS,Capital Goods,Manufacturing,NIFTY_MIDCAP_150,https://www.screener.in/company/APARINDS/consolidated/
+Apollo Tyres Ltd.,APOLLOTYRE,Automobile and Auto Components,Manufacturing,NIFTY_MIDCAP_150,https://www.screener.in/company/APOLLOTYRE/consolidated/
+Ashok Leyland Ltd.,ASHOKLEY,Capital Goods,Manufacturing,NIFTY_MIDCAP_150,https://www.screener.in/company/ASHOKLEY/consolidated/
+Astral Ltd.,ASTRAL,Capital Goods,Manufacturing,NIFTY_MIDCAP_150,https://www.screener.in/company/ASTRAL/consolidated/
+Aurobindo Pharma Ltd.,AUROPHARMA,Healthcare,Pharma,NIFTY_MIDCAP_150,https://www.screener.in/company/AUROPHARMA/consolidated/
+Authum Investment & Infrastructure Ltd.,AIIL,Financial Services,Banking,NIFTY_MIDCAP_150,https://www.screener.in/company/AIIL/consolidated/
+BSE Ltd.,BSE,Financial Services,Banking,NIFTY_MIDCAP_150,https://www.screener.in/company/BSE/consolidated/
+Bajaj Housing Finance Ltd.,BAJAJHFL,Financial Services,Banking,NIFTY_MIDCAP_150,https://www.screener.in/company/BAJAJHFL/consolidated/
+Balkrishna Industries Ltd.,BALKRISIND,Automobile and Auto Components,Manufacturing,NIFTY_MIDCAP_150,https://www.screener.in/company/BALKRISIND/consolidated/
+Bank of India,BANKINDIA,Financial Services,Banking,NIFTY_MIDCAP_150,https://www.screener.in/company/BANKINDIA/consolidated/
+Bank of Maharashtra,MAHABANK,Financial Services,Banking,NIFTY_MIDCAP_150,https://www.screener.in/company/MAHABANK/consolidated/
+Berger Paints India Ltd.,BERGEPAINT,Consumer Durables,Manufacturing,NIFTY_MIDCAP_150,https://www.screener.in/company/BERGEPAINT/consolidated/
+Bharat Dynamics Ltd.,BDL,Capital Goods,Manufacturing,NIFTY_MIDCAP_150,https://www.screener.in/company/BDL/consolidated/
+Bharat Forge Ltd.,BHARATFORG,Automobile and Auto Components,Manufacturing,NIFTY_MIDCAP_150,https://www.screener.in/company/BHARATFORG/consolidated/
+Bharat Heavy Electricals Ltd.,BHEL,Capital Goods,Manufacturing,NIFTY_MIDCAP_150,https://www.screener.in/company/BHEL/consolidated/
+Bharti Hexacom Ltd.,BHARTIHEXA,Telecommunication,Other,NIFTY_MIDCAP_150,https://www.screener.in/company/BHARTIHEXA/consolidated/
+Billionbrains Garage Ventures Ltd.,GROWW,Financial Services,Banking,NIFTY_MIDCAP_150,https://www.screener.in/company/GROWW/consolidated/
+Biocon Ltd.,BIOCON,Healthcare,Pharma,NIFTY_MIDCAP_150,https://www.screener.in/company/BIOCON/consolidated/
+Blue Star Ltd.,BLUESTARCO,Consumer Durables,Manufacturing,NIFTY_MIDCAP_150,https://www.screener.in/company/BLUESTARCO/consolidated/
+CRISIL Ltd.,CRISIL,Financial Services,Banking,NIFTY_MIDCAP_150,https://www.screener.in/company/CRISIL/consolidated/
+Cochin Shipyard Ltd.,COCHINSHIP,Capital Goods,Manufacturing,NIFTY_MIDCAP_150,https://www.screener.in/company/COCHINSHIP/consolidated/
+Coforge Ltd.,COFORGE,Information Technology,IT,NIFTY_MIDCAP_150,https://www.screener.in/company/COFORGE/consolidated/
+Colgate Palmolive (India) Ltd.,COLPAL,Fast Moving Consumer Goods,Other,NIFTY_MIDCAP_150,https://www.screener.in/company/COLPAL/consolidated/
+Container Corporation of India Ltd.,CONCOR,Services,Other,NIFTY_MIDCAP_150,https://www.screener.in/company/CONCOR/consolidated/
+Coromandel International Ltd.,COROMANDEL,Chemicals,Chemicals,NIFTY_MIDCAP_150,https://www.screener.in/company/COROMANDEL/consolidated/
+Dabur India Ltd.,DABUR,Fast Moving Consumer Goods,Other,NIFTY_MIDCAP_150,https://www.screener.in/company/DABUR/consolidated/
+Dalmia Bharat Ltd.,DALBHARAT,Construction Materials,Manufacturing,NIFTY_MIDCAP_150,https://www.screener.in/company/DALBHARAT/consolidated/
+Dixon Technologies (India) Ltd.,DIXON,Consumer Durables,Manufacturing,NIFTY_MIDCAP_150,https://www.screener.in/company/DIXON/consolidated/
+Endurance Technologies Ltd.,ENDURANCE,Automobile and Auto Components,Manufacturing,NIFTY_MIDCAP_150,https://www.screener.in/company/ENDURANCE/consolidated/
+Escorts Kubota Ltd.,ESCORTS,Capital Goods,Manufacturing,NIFTY_MIDCAP_150,https://www.screener.in/company/ESCORTS/consolidated/
+Exide Industries Ltd.,EXIDEIND,Automobile and Auto Components,Manufacturing,NIFTY_MIDCAP_150,https://www.screener.in/company/EXIDEIND/consolidated/
+FSN E-Commerce Ventures Ltd.,NYKAA,Consumer Services,Other,NIFTY_MIDCAP_150,https://www.screener.in/company/NYKAA/consolidated/
+Federal Bank Ltd.,FEDERALBNK,Financial Services,Banking,NIFTY_MIDCAP_150,https://www.screener.in/company/FEDERALBNK/consolidated/
+Fortis Healthcare Ltd.,FORTIS,Healthcare,Pharma,NIFTY_MIDCAP_150,https://www.screener.in/company/FORTIS/consolidated/
+GE Vernova T&D India Ltd.,GVT&D,Capital Goods,Manufacturing,NIFTY_MIDCAP_150,https://www.screener.in/company/GVT&D/consolidated/
+GMR Airports Ltd.,GMRAIRPORT,Services,Other,NIFTY_MIDCAP_150,https://www.screener.in/company/GMRAIRPORT/consolidated/
+General Insurance Corporation of India,GICRE,Financial Services,Banking,NIFTY_MIDCAP_150,https://www.screener.in/company/GICRE/consolidated/
+Glaxosmithkline Pharmaceuticals Ltd.,GLAXO,Healthcare,Pharma,NIFTY_MIDCAP_150,https://www.screener.in/company/GLAXO/consolidated/
+Glenmark Pharmaceuticals Ltd.,GLENMARK,Healthcare,Pharma,NIFTY_MIDCAP_150,https://www.screener.in/company/GLENMARK/consolidated/
+Global Health Ltd.,MEDANTA,Healthcare,Pharma,NIFTY_MIDCAP_150,https://www.screener.in/company/MEDANTA/consolidated/
+Godfrey Phillips India Ltd.,GODFRYPHLP,Fast Moving Consumer Goods,Other,NIFTY_MIDCAP_150,https://www.screener.in/company/GODFRYPHLP/consolidated/
+Godrej Industries Ltd.,GODREJIND,Diversified,Other,NIFTY_MIDCAP_150,https://www.screener.in/company/GODREJIND/consolidated/
+Godrej Properties Ltd.,GODREJPROP,Realty,Other,NIFTY_MIDCAP_150,https://www.screener.in/company/GODREJPROP/consolidated/
+Gujarat Fluorochemicals Ltd.,FLUOROCHEM,Chemicals,Chemicals,NIFTY_MIDCAP_150,https://www.screener.in/company/FLUOROCHEM/consolidated/
+HDB Financial Services Ltd.,HDBFS,Financial Services,Banking,NIFTY_MIDCAP_150,https://www.screener.in/company/HDBFS/consolidated/
+Havells India Ltd.,HAVELLS,Consumer Durables,Manufacturing,NIFTY_MIDCAP_150,https://www.screener.in/company/HAVELLS/consolidated/
+Hero MotoCorp Ltd.,HEROMOTOCO,Automobile and Auto Components,Manufacturing,NIFTY_MIDCAP_150,https://www.screener.in/company/HEROMOTOCO/consolidated/
+Hexaware Technologies Ltd.,HEXT,Information Technology,IT,NIFTY_MIDCAP_150,https://www.screener.in/company/HEXT/consolidated/
+Hindustan Petroleum Corporation Ltd.,HINDPETRO,Oil Gas & Consumable Fuels,Other,NIFTY_MIDCAP_150,https://www.screener.in/company/HINDPETRO/consolidated/
+Hitachi Energy India Ltd.,POWERINDIA,Capital Goods,Manufacturing,NIFTY_MIDCAP_150,https://www.screener.in/company/POWERINDIA/consolidated/
+Honeywell Automation India Ltd.,HONAUT,Capital Goods,Manufacturing,NIFTY_MIDCAP_150,https://www.screener.in/company/HONAUT/consolidated/
+Housing & Urban Development Corporation Ltd.,HUDCO,Financial Services,Banking,NIFTY_MIDCAP_150,https://www.screener.in/company/HUDCO/consolidated/
+ICICI Lombard General Insurance Company Ltd.,ICICIGI,Financial Services,Banking,NIFTY_MIDCAP_150,https://www.screener.in/company/ICICIGI/consolidated/
+ICICI Prudential Asset Management Company Ltd.,ICICIAMC,Financial Services,Banking,NIFTY_MIDCAP_150,https://www.screener.in/company/ICICIAMC/consolidated/
+ICICI Prudential Life Insurance Company Ltd.,ICICIPRULI,Financial Services,Banking,NIFTY_MIDCAP_150,https://www.screener.in/company/ICICIPRULI/consolidated/
+IDFC First Bank Ltd.,IDFCFIRSTB,Financial Services,Banking,NIFTY_MIDCAP_150,https://www.screener.in/company/IDFCFIRSTB/consolidated/
+ITC Hotels Ltd.,ITCHOTELS,Consumer Services,Other,NIFTY_MIDCAP_150,https://www.screener.in/company/ITCHOTELS/consolidated/
+Indian Bank,INDIANB,Financial Services,Banking,NIFTY_MIDCAP_150,https://www.screener.in/company/INDIANB/consolidated/
+Indian Railway Catering And Tourism Corporation Ltd.,IRCTC,Consumer Services,Other,NIFTY_MIDCAP_150,https://www.screener.in/company/IRCTC/consolidated/
+Indian Renewable Energy Development Agency Ltd.,IREDA,Financial Services,Banking,NIFTY_MIDCAP_150,https://www.screener.in/company/IREDA/consolidated/
+Indus Towers Ltd.,INDUSTOWER,Telecommunication,Other,NIFTY_MIDCAP_150,https://www.screener.in/company/INDUSTOWER/consolidated/
+IndusInd Bank Ltd.,INDUSINDBK,Financial Services,Banking,NIFTY_MIDCAP_150,https://www.screener.in/company/INDUSINDBK/consolidated/
+Info Edge (India) Ltd.,NAUKRI,Consumer Services,Other,NIFTY_MIDCAP_150,https://www.screener.in/company/NAUKRI/consolidated/
+Ipca Laboratories Ltd.,IPCALAB,Healthcare,Pharma,NIFTY_MIDCAP_150,https://www.screener.in/company/IPCALAB/consolidated/
+J.K. Cement Ltd.,JKCEMENT,Construction Materials,Manufacturing,NIFTY_MIDCAP_150,https://www.screener.in/company/JKCEMENT/consolidated/
+JSW Energy Ltd.,JSWENERGY,Power,Other,NIFTY_MIDCAP_150,https://www.screener.in/company/JSWENERGY/consolidated/
+JSW Infrastructure Ltd.,JSWINFRA,Services,Other,NIFTY_MIDCAP_150,https://www.screener.in/company/JSWINFRA/consolidated/
+Jindal Stainless Ltd.,JSL,Metals & Mining,Manufacturing,NIFTY_MIDCAP_150,https://www.screener.in/company/JSL/consolidated/
+Jubilant Foodworks Ltd.,JUBLFOOD,Consumer Services,Other,NIFTY_MIDCAP_150,https://www.screener.in/company/JUBLFOOD/consolidated/
+K.P.R. Mill Ltd.,KPRMILL,Textiles,Manufacturing,NIFTY_MIDCAP_150,https://www.screener.in/company/KPRMILL/consolidated/
+KEI Industries Ltd.,KEI,Capital Goods,Manufacturing,NIFTY_MIDCAP_150,https://www.screener.in/company/KEI/consolidated/
+KPIT Technologies Ltd.,KPITTECH,Information Technology,IT,NIFTY_MIDCAP_150,https://www.screener.in/company/KPITTECH/consolidated/
+Kalyan Jewellers India Ltd.,KALYANKJIL,Consumer Durables,Manufacturing,NIFTY_MIDCAP_150,https://www.screener.in/company/KALYANKJIL/consolidated/
+L&T Finance Ltd.,LTF,Financial Services,Banking,NIFTY_MIDCAP_150,https://www.screener.in/company/LTF/consolidated/
+L&T Technology Services Ltd.,LTTS,Information Technology,IT,NIFTY_MIDCAP_150,https://www.screener.in/company/LTTS/consolidated/
+LG Electronics India Ltd.,LGEINDIA,Consumer Durables,Manufacturing,NIFTY_MIDCAP_150,https://www.screener.in/company/LGEINDIA/consolidated/
+LIC Housing Finance Ltd.,LICHSGFIN,Financial Services,Banking,NIFTY_MIDCAP_150,https://www.screener.in/company/LICHSGFIN/consolidated/
+Laurus Labs Ltd.,LAURUSLABS,Healthcare,Pharma,NIFTY_MIDCAP_150,https://www.screener.in/company/LAURUSLABS/consolidated/
+Lenskart Solutions Ltd.,LENSKART,Consumer Services,Other,NIFTY_MIDCAP_150,https://www.screener.in/company/LENSKART/consolidated/
+Life Insurance Corporation of India,LICI,Financial Services,Banking,NIFTY_MIDCAP_150,https://www.screener.in/company/LICI/consolidated/
+Linde India Ltd.,LINDEINDIA,Chemicals,Chemicals,NIFTY_MIDCAP_150,https://www.screener.in/company/LINDEINDIA/consolidated/
+Lloyds Metals And Energy Ltd.,LLOYDSME,Metals & Mining,Manufacturing,NIFTY_MIDCAP_150,https://www.screener.in/company/LLOYDSME/consolidated/
+Lupin Ltd.,LUPIN,Healthcare,Pharma,NIFTY_MIDCAP_150,https://www.screener.in/company/LUPIN/consolidated/
+MRF Ltd.,MRF,Automobile and Auto Components,Manufacturing,NIFTY_MIDCAP_150,https://www.screener.in/company/MRF/consolidated/
+Mahindra & Mahindra Financial Services Ltd.,M&MFIN,Financial Services,Banking,NIFTY_MIDCAP_150,https://www.screener.in/company/M&MFIN/consolidated/
+Mankind Pharma Ltd.,MANKIND,Healthcare,Pharma,NIFTY_MIDCAP_150,https://www.screener.in/company/MANKIND/consolidated/
+Marico Ltd.,MARICO,Fast Moving Consumer Goods,Other,NIFTY_MIDCAP_150,https://www.screener.in/company/MARICO/consolidated/
+Max Financial Services Ltd.,MFSL,Financial Services,Banking,NIFTY_MIDCAP_150,https://www.screener.in/company/MFSL/consolidated/
+Motilal Oswal Financial Services Ltd.,MOTILALOFS,Financial Services,Banking,NIFTY_MIDCAP_150,https://www.screener.in/company/MOTILALOFS/consolidated/
+MphasiS Ltd.,MPHASIS,Information Technology,IT,NIFTY_MIDCAP_150,https://www.screener.in/company/MPHASIS/consolidated/
+Multi Commodity Exchange of India Ltd.,MCX,Financial Services,Banking,NIFTY_MIDCAP_150,https://www.screener.in/company/MCX/consolidated/
+NHPC Ltd.,NHPC,Power,Other,NIFTY_MIDCAP_150,https://www.screener.in/company/NHPC/consolidated/
+NLC India Ltd.,NLCINDIA,Power,Other,NIFTY_MIDCAP_150,https://www.screener.in/company/NLCINDIA/consolidated/
+NMDC Ltd.,NMDC,Metals & Mining,Manufacturing,NIFTY_MIDCAP_150,https://www.screener.in/company/NMDC/consolidated/
+NTPC Green Energy Ltd.,NTPCGREEN,Power,Other,NIFTY_MIDCAP_150,https://www.screener.in/company/NTPCGREEN/consolidated/
+National Aluminium Co. Ltd.,NATIONALUM,Metals & Mining,Manufacturing,NIFTY_MIDCAP_150,https://www.screener.in/company/NATIONALUM/consolidated/
+Nippon Life India Asset Management Ltd.,NAM-INDIA,Financial Services,Banking,NIFTY_MIDCAP_150,https://www.screener.in/company/NAM-INDIA/consolidated/
+Oberoi Realty Ltd.,OBEROIRLTY,Realty,Other,NIFTY_MIDCAP_150,https://www.screener.in/company/OBEROIRLTY/consolidated/
+Oil India Ltd.,OIL,Oil Gas & Consumable Fuels,Other,NIFTY_MIDCAP_150,https://www.screener.in/company/OIL/consolidated/
+One 97 Communications Ltd.,PAYTM,Financial Services,Banking,NIFTY_MIDCAP_150,https://www.screener.in/company/PAYTM/consolidated/
+Oracle Financial Services Software Ltd.,OFSS,Information Technology,IT,NIFTY_MIDCAP_150,https://www.screener.in/company/OFSS/consolidated/
+PB Fintech Ltd.,POLICYBZR,Financial Services,Banking,NIFTY_MIDCAP_150,https://www.screener.in/company/POLICYBZR/consolidated/
+PI Industries Ltd.,PIIND,Chemicals,Chemicals,NIFTY_MIDCAP_150,https://www.screener.in/company/PIIND/consolidated/
+Page Industries Ltd.,PAGEIND,Textiles,Manufacturing,NIFTY_MIDCAP_150,https://www.screener.in/company/PAGEIND/consolidated/
+Patanjali Foods Ltd.,PATANJALI,Fast Moving Consumer Goods,Other,NIFTY_MIDCAP_150,https://www.screener.in/company/PATANJALI/consolidated/
+Persistent Systems Ltd.,PERSISTENT,Information Technology,IT,NIFTY_MIDCAP_150,https://www.screener.in/company/PERSISTENT/consolidated/
+Petronet LNG Ltd.,PETRONET,Oil Gas & Consumable Fuels,Other,NIFTY_MIDCAP_150,https://www.screener.in/company/PETRONET/consolidated/
+Phoenix Mills Ltd.,PHOENIXLTD,Realty,Other,NIFTY_MIDCAP_150,https://www.screener.in/company/PHOENIXLTD/consolidated/
+Polycab India Ltd.,POLYCAB,Capital Goods,Manufacturing,NIFTY_MIDCAP_150,https://www.screener.in/company/POLYCAB/consolidated/
+Premier Energies Ltd.,PREMIERENE,Capital Goods,Manufacturing,NIFTY_MIDCAP_150,https://www.screener.in/company/PREMIERENE/consolidated/
+Prestige Estates Projects Ltd.,PRESTIGE,Realty,Other,NIFTY_MIDCAP_150,https://www.screener.in/company/PRESTIGE/consolidated/
+Radico Khaitan Ltd,RADICO,Fast Moving Consumer Goods,Other,NIFTY_MIDCAP_150,https://www.screener.in/company/RADICO/consolidated/
+Rail Vikas Nigam Ltd.,RVNL,Construction,Manufacturing,NIFTY_MIDCAP_150,https://www.screener.in/company/RVNL/consolidated/
+SBI Cards and Payment Services Ltd.,SBICARD,Financial Services,Banking,NIFTY_MIDCAP_150,https://www.screener.in/company/SBICARD/consolidated/
+SJVN Ltd.,SJVN,Power,Other,NIFTY_MIDCAP_150,https://www.screener.in/company/SJVN/consolidated/
+SRF Ltd.,SRF,Chemicals,Chemicals,NIFTY_MIDCAP_150,https://www.screener.in/company/SRF/consolidated/
+Schaeffler India Ltd.,SCHAEFFLER,Automobile and Auto Components,Manufacturing,NIFTY_MIDCAP_150,https://www.screener.in/company/SCHAEFFLER/consolidated/
+Steel Authority of India Ltd.,SAIL,Metals & Mining,Manufacturing,NIFTY_MIDCAP_150,https://www.screener.in/company/SAIL/consolidated/
+Sundaram Finance Ltd.,SUNDARMFIN,Financial Services,Banking,NIFTY_MIDCAP_150,https://www.screener.in/company/SUNDARMFIN/consolidated/
+Supreme Industries Ltd.,SUPREMEIND,Capital Goods,Manufacturing,NIFTY_MIDCAP_150,https://www.screener.in/company/SUPREMEIND/consolidated/
+Suzlon Energy Ltd.,SUZLON,Capital Goods,Manufacturing,NIFTY_MIDCAP_150,https://www.screener.in/company/SUZLON/consolidated/
+Swiggy Ltd.,SWIGGY,Consumer Services,Other,NIFTY_MIDCAP_150,https://www.screener.in/company/SWIGGY/consolidated/
+Tata Communications Ltd.,TATACOMM,Telecommunication,Other,NIFTY_MIDCAP_150,https://www.screener.in/company/TATACOMM/consolidated/
+Tata Elxsi Ltd.,TATAELXSI,Information Technology,IT,NIFTY_MIDCAP_150,https://www.screener.in/company/TATAELXSI/consolidated/
+Tata Investment Corporation Ltd.,TATAINVEST,Financial Services,Banking,NIFTY_MIDCAP_150,https://www.screener.in/company/TATAINVEST/consolidated/
+The New India Assurance Company Ltd.,NIACL,Financial Services,Banking,NIFTY_MIDCAP_150,https://www.screener.in/company/NIACL/consolidated/
+Thermax Ltd.,THERMAX,Capital Goods,Manufacturing,NIFTY_MIDCAP_150,https://www.screener.in/company/THERMAX/consolidated/
+Torrent Power Ltd.,TORNTPOWER,Power,Other,NIFTY_MIDCAP_150,https://www.screener.in/company/TORNTPOWER/consolidated/
+Tube Investments of India Ltd.,TIINDIA,Automobile and Auto Components,Manufacturing,NIFTY_MIDCAP_150,https://www.screener.in/company/TIINDIA/consolidated/
+UNO Minda Ltd.,UNOMINDA,Automobile and Auto Components,Manufacturing,NIFTY_MIDCAP_150,https://www.screener.in/company/UNOMINDA/consolidated/
+UPL Ltd.,UPL,Chemicals,Chemicals,NIFTY_MIDCAP_150,https://www.screener.in/company/UPL/consolidated/
+United Breweries Ltd.,UBL,Fast Moving Consumer Goods,Other,NIFTY_MIDCAP_150,https://www.screener.in/company/UBL/consolidated/
+Vishal Mega Mart Ltd.,VMM,Consumer Services,Other,NIFTY_MIDCAP_150,https://www.screener.in/company/VMM/consolidated/
+Vodafone Idea Ltd.,IDEA,Telecommunication,Other,NIFTY_MIDCAP_150,https://www.screener.in/company/IDEA/consolidated/
+Voltas Ltd.,VOLTAS,Consumer Durables,Manufacturing,NIFTY_MIDCAP_150,https://www.screener.in/company/VOLTAS/consolidated/
+Waaree Energies Ltd.,WAAREEENER,Capital Goods,Manufacturing,NIFTY_MIDCAP_150,https://www.screener.in/company/WAAREEENER/consolidated/
+Yes Bank Ltd.,YESBANK,Financial Services,Banking,NIFTY_MIDCAP_150,https://www.screener.in/company/YESBANK/consolidated/
+ACME Solar Holdings Ltd.,ACMESOLAR,Power,Other,NIFTY_SMALLCAP_250,https://www.screener.in/company/ACMESOLAR/consolidated/
+Aadhar Housing Finance Ltd.,AADHARHFC,Financial Services,Banking,NIFTY_SMALLCAP_250,https://www.screener.in/company/AADHARHFC/consolidated/
+Aarti Industries Ltd.,AARTIIND,Chemicals,Chemicals,NIFTY_SMALLCAP_250,https://www.screener.in/company/AARTIIND/consolidated/
+Aavas Financiers Ltd.,AAVAS,Financial Services,Banking,NIFTY_SMALLCAP_250,https://www.screener.in/company/AAVAS/consolidated/
+Action Construction Equipment Ltd.,ACE,Capital Goods,Manufacturing,NIFTY_SMALLCAP_250,https://www.screener.in/company/ACE/consolidated/
+Acutaas Chemicals Ltd.,ACUTAAS,Healthcare,Pharma,NIFTY_SMALLCAP_250,https://www.screener.in/company/ACUTAAS/consolidated/
+Aditya Birla Fashion and Retail Ltd.,ABFRL,Consumer Services,Other,NIFTY_SMALLCAP_250,https://www.screener.in/company/ABFRL/consolidated/
+Aditya Birla Lifestyle Brands Ltd.,ABLBL,Consumer Services,Other,NIFTY_SMALLCAP_250,https://www.screener.in/company/ABLBL/consolidated/
+Aditya Birla Real Estate Ltd.,ABREL,Realty,Other,NIFTY_SMALLCAP_250,https://www.screener.in/company/ABREL/consolidated/
+Aditya Birla Sun Life AMC Ltd.,ABSLAMC,Financial Services,Banking,NIFTY_SMALLCAP_250,https://www.screener.in/company/ABSLAMC/consolidated/
+Aditya Infotech Ltd.,CPPLUS,Capital Goods,Manufacturing,NIFTY_SMALLCAP_250,https://www.screener.in/company/CPPLUS/consolidated/
+Aegis Logistics Ltd.,AEGISLOG,Oil Gas & Consumable Fuels,Other,NIFTY_SMALLCAP_250,https://www.screener.in/company/AEGISLOG/consolidated/
+Aegis Vopak Terminals Ltd.,AEGISVOPAK,Oil Gas & Consumable Fuels,Other,NIFTY_SMALLCAP_250,https://www.screener.in/company/AEGISVOPAK/consolidated/
+Afcons Infrastructure Ltd.,AFCONS,Construction,Manufacturing,NIFTY_SMALLCAP_250,https://www.screener.in/company/AFCONS/consolidated/
+Affle 3i Ltd.,AFFLE,Information Technology,IT,NIFTY_SMALLCAP_250,https://www.screener.in/company/AFFLE/consolidated/
+Allied Blenders and Distillers Ltd.,ABDL,Fast Moving Consumer Goods,Other,NIFTY_SMALLCAP_250,https://www.screener.in/company/ABDL/consolidated/
+Amara Raja Energy & Mobility Ltd.,ARE&M,Automobile and Auto Components,Manufacturing,NIFTY_SMALLCAP_250,https://www.screener.in/company/ARE&M/consolidated/
+Amber Enterprises India Ltd.,AMBER,Consumer Durables,Manufacturing,NIFTY_SMALLCAP_250,https://www.screener.in/company/AMBER/consolidated/
+Anand Rathi Wealth Ltd.,ANANDRATHI,Financial Services,Banking,NIFTY_SMALLCAP_250,https://www.screener.in/company/ANANDRATHI/consolidated/
+Anant Raj Ltd.,ANANTRAJ,Realty,Other,NIFTY_SMALLCAP_250,https://www.screener.in/company/ANANTRAJ/consolidated/
+Angel One Ltd.,ANGELONE,Financial Services,Banking,NIFTY_SMALLCAP_250,https://www.screener.in/company/ANGELONE/consolidated/
+Anupam Rasayan India Ltd.,ANURAS,Chemicals,Chemicals,NIFTY_SMALLCAP_250,https://www.screener.in/company/ANURAS/consolidated/
+Aptus Value Housing Finance India Ltd.,APTUS,Financial Services,Banking,NIFTY_SMALLCAP_250,https://www.screener.in/company/APTUS/consolidated/
+Asahi India Glass Ltd.,ASAHIINDIA,Automobile and Auto Components,Manufacturing,NIFTY_SMALLCAP_250,https://www.screener.in/company/ASAHIINDIA/consolidated/
+Aster DM Quality Care Ltd.,ASTERDM,Healthcare,Pharma,NIFTY_SMALLCAP_250,https://www.screener.in/company/ASTERDM/consolidated/
+Ather Energy Ltd.,ATHERENERG,Automobile and Auto Components,Manufacturing,NIFTY_SMALLCAP_250,https://www.screener.in/company/ATHERENERG/consolidated/
+Atul Ltd.,ATUL,Chemicals,Chemicals,NIFTY_SMALLCAP_250,https://www.screener.in/company/ATUL/consolidated/
+BEML Ltd.,BEML,Capital Goods,Manufacturing,NIFTY_SMALLCAP_250,https://www.screener.in/company/BEML/consolidated/
+BLS International Services Ltd.,BLS,Consumer Services,Other,NIFTY_SMALLCAP_250,https://www.screener.in/company/BLS/consolidated/
+Balrampur Chini Mills Ltd.,BALRAMCHIN,Fast Moving Consumer Goods,Other,NIFTY_SMALLCAP_250,https://www.screener.in/company/BALRAMCHIN/consolidated/
+Bandhan Bank Ltd.,BANDHANBNK,Financial Services,Banking,NIFTY_SMALLCAP_250,https://www.screener.in/company/BANDHANBNK/consolidated/
+Bata India Ltd.,BATAINDIA,Consumer Durables,Manufacturing,NIFTY_SMALLCAP_250,https://www.screener.in/company/BATAINDIA/consolidated/
+Bayer Cropscience Ltd.,BAYERCROP,Chemicals,Chemicals,NIFTY_SMALLCAP_250,https://www.screener.in/company/BAYERCROP/consolidated/
+Belrise Industries Ltd.,BELRISE,Automobile and Auto Components,Manufacturing,NIFTY_SMALLCAP_250,https://www.screener.in/company/BELRISE/consolidated/
+Bikaji Foods International Ltd.,BIKAJI,Fast Moving Consumer Goods,Other,NIFTY_SMALLCAP_250,https://www.screener.in/company/BIKAJI/consolidated/
+Birlasoft Ltd.,BSOFT,Information Technology,IT,NIFTY_SMALLCAP_250,https://www.screener.in/company/BSOFT/consolidated/
+Blue Dart Express Ltd.,BLUEDART,Services,Other,NIFTY_SMALLCAP_250,https://www.screener.in/company/BLUEDART/consolidated/
+Blue Jet Healthcare Ltd.,BLUEJET,Healthcare,Pharma,NIFTY_SMALLCAP_250,https://www.screener.in/company/BLUEJET/consolidated/
+Bombay Burmah Trading Corporation Ltd.,BBTC,Fast Moving Consumer Goods,Other,NIFTY_SMALLCAP_250,https://www.screener.in/company/BBTC/consolidated/
+Brainbees Solutions Ltd.,FIRSTCRY,Consumer Services,Other,NIFTY_SMALLCAP_250,https://www.screener.in/company/FIRSTCRY/consolidated/
+Brigade Enterprises Ltd.,BRIGADE,Realty,Other,NIFTY_SMALLCAP_250,https://www.screener.in/company/BRIGADE/consolidated/
+C.E. Info Systems Ltd.,MAPMYINDIA,Information Technology,IT,NIFTY_SMALLCAP_250,https://www.screener.in/company/MAPMYINDIA/consolidated/
+CCL Products (I) Ltd.,CCL,Fast Moving Consumer Goods,Other,NIFTY_SMALLCAP_250,https://www.screener.in/company/CCL/consolidated/
+CESC Ltd.,CESC,Power,Other,NIFTY_SMALLCAP_250,https://www.screener.in/company/CESC/consolidated/
+CIE Automotive India Ltd.,CIEINDIA,Automobile and Auto Components,Manufacturing,NIFTY_SMALLCAP_250,https://www.screener.in/company/CIEINDIA/consolidated/
+Can Fin Homes Ltd.,CANFINHOME,Financial Services,Banking,NIFTY_SMALLCAP_250,https://www.screener.in/company/CANFINHOME/consolidated/
+Canara HSBC Life Insurance Company Ltd.,CANHLIFE,Financial Services,Banking,NIFTY_SMALLCAP_250,https://www.screener.in/company/CANHLIFE/consolidated/
+Caplin Point Laboratories Ltd.,CAPLIPOINT,Healthcare,Pharma,NIFTY_SMALLCAP_250,https://www.screener.in/company/CAPLIPOINT/consolidated/
+Capri Global Capital Ltd.,CGCL,Financial Services,Banking,NIFTY_SMALLCAP_250,https://www.screener.in/company/CGCL/consolidated/
+Carborundum Universal Ltd.,CARBORUNIV,Capital Goods,Manufacturing,NIFTY_SMALLCAP_250,https://www.screener.in/company/CARBORUNIV/consolidated/
+Cartrade Tech Ltd.,CARTRADE,Consumer Services,Other,NIFTY_SMALLCAP_250,https://www.screener.in/company/CARTRADE/consolidated/
+Castrol India Ltd.,CASTROLIND,Oil Gas & Consumable Fuels,Other,NIFTY_SMALLCAP_250,https://www.screener.in/company/CASTROLIND/consolidated/
+Ceat Ltd.,CEATLTD,Automobile and Auto Components,Manufacturing,NIFTY_SMALLCAP_250,https://www.screener.in/company/CEATLTD/consolidated/
+Cemindia Projects Ltd.,CEMPRO,Construction,Manufacturing,NIFTY_SMALLCAP_250,https://www.screener.in/company/CEMPRO/consolidated/
+Central Bank of India,CENTRALBK,Financial Services,Banking,NIFTY_SMALLCAP_250,https://www.screener.in/company/CENTRALBK/consolidated/
+Central Depository Services (India) Ltd.,CDSL,Financial Services,Banking,NIFTY_SMALLCAP_250,https://www.screener.in/company/CDSL/consolidated/
+Chalet Hotels Ltd.,CHALET,Consumer Services,Other,NIFTY_SMALLCAP_250,https://www.screener.in/company/CHALET/consolidated/
+Chambal Fertilizers & Chemicals Ltd.,CHAMBLFERT,Chemicals,Chemicals,NIFTY_SMALLCAP_250,https://www.screener.in/company/CHAMBLFERT/consolidated/
+Chennai Petroleum Corporation Ltd.,CHENNPETRO,Oil Gas & Consumable Fuels,Other,NIFTY_SMALLCAP_250,https://www.screener.in/company/CHENNPETRO/consolidated/
+Choice International Ltd.,CHOICEIN,Financial Services,Banking,NIFTY_SMALLCAP_250,https://www.screener.in/company/CHOICEIN/consolidated/
+Cholamandalam Financial Holdings Ltd.,CHOLAHLDNG,Financial Services,Banking,NIFTY_SMALLCAP_250,https://www.screener.in/company/CHOLAHLDNG/consolidated/
+City Union Bank Ltd.,CUB,Financial Services,Banking,NIFTY_SMALLCAP_250,https://www.screener.in/company/CUB/consolidated/
+Clean Science and Technology Ltd.,CLEAN,Chemicals,Chemicals,NIFTY_SMALLCAP_250,https://www.screener.in/company/CLEAN/consolidated/
+Cohance Lifesciences Ltd.,COHANCE,Healthcare,Pharma,NIFTY_SMALLCAP_250,https://www.screener.in/company/COHANCE/consolidated/
+Computer Age Management Services Ltd.,CAMS,Financial Services,Banking,NIFTY_SMALLCAP_250,https://www.screener.in/company/CAMS/consolidated/
+Concord Biotech Ltd.,CONCORDBIO,Healthcare,Pharma,NIFTY_SMALLCAP_250,https://www.screener.in/company/CONCORDBIO/consolidated/
+Craftsman Automation Ltd.,CRAFTSMAN,Automobile and Auto Components,Manufacturing,NIFTY_SMALLCAP_250,https://www.screener.in/company/CRAFTSMAN/consolidated/
+CreditAccess Grameen Ltd.,CREDITACC,Financial Services,Banking,NIFTY_SMALLCAP_250,https://www.screener.in/company/CREDITACC/consolidated/
+Crompton Greaves Consumer Electricals Ltd.,CROMPTON,Consumer Durables,Manufacturing,NIFTY_SMALLCAP_250,https://www.screener.in/company/CROMPTON/consolidated/
+Cyient Ltd.,CYIENT,Information Technology,IT,NIFTY_SMALLCAP_250,https://www.screener.in/company/CYIENT/consolidated/
+DCM Shriram Ltd.,DCMSHRIRAM,Diversified,Other,NIFTY_SMALLCAP_250,https://www.screener.in/company/DCMSHRIRAM/consolidated/
+DOMS Industries Ltd.,DOMS,Fast Moving Consumer Goods,Other,NIFTY_SMALLCAP_250,https://www.screener.in/company/DOMS/consolidated/
+Data Patterns (India) Ltd.,DATAPATTNS,Capital Goods,Manufacturing,NIFTY_SMALLCAP_250,https://www.screener.in/company/DATAPATTNS/consolidated/
+Deepak Fertilisers & Petrochemicals Corp. Ltd.,DEEPAKFERT,Chemicals,Chemicals,NIFTY_SMALLCAP_250,https://www.screener.in/company/DEEPAKFERT/consolidated/
+Deepak Nitrite Ltd.,DEEPAKNTR,Chemicals,Chemicals,NIFTY_SMALLCAP_250,https://www.screener.in/company/DEEPAKNTR/consolidated/
+Delhivery Ltd.,DELHIVERY,Services,Other,NIFTY_SMALLCAP_250,https://www.screener.in/company/DELHIVERY/consolidated/
+Devyani International Ltd.,DEVYANI,Consumer Services,Other,NIFTY_SMALLCAP_250,https://www.screener.in/company/DEVYANI/consolidated/
+Dr. Lal Path Labs Ltd.,LALPATHLAB,Healthcare,Pharma,NIFTY_SMALLCAP_250,https://www.screener.in/company/LALPATHLAB/consolidated/
+Dummy HEG Ltd.,DUMMYHEG,Metals & Mining,Manufacturing,NIFTY_SMALLCAP_250,https://www.screener.in/company/DUMMYHEG/consolidated/
+E.I.D. Parry (India) Ltd.,EIDPARRY,Fast Moving Consumer Goods,Other,NIFTY_SMALLCAP_250,https://www.screener.in/company/EIDPARRY/consolidated/
+EIH Ltd.,EIHOTEL,Consumer Services,Other,NIFTY_SMALLCAP_250,https://www.screener.in/company/EIHOTEL/consolidated/
+Elecon Engineering Co. Ltd.,ELECON,Capital Goods,Manufacturing,NIFTY_SMALLCAP_250,https://www.screener.in/company/ELECON/consolidated/
+Elgi Equipments Ltd.,ELGIEQUIP,Capital Goods,Manufacturing,NIFTY_SMALLCAP_250,https://www.screener.in/company/ELGIEQUIP/consolidated/
+Emami Ltd.,EMAMILTD,Fast Moving Consumer Goods,Other,NIFTY_SMALLCAP_250,https://www.screener.in/company/EMAMILTD/consolidated/
+Emcure Pharmaceuticals Ltd.,EMCURE,Healthcare,Pharma,NIFTY_SMALLCAP_250,https://www.screener.in/company/EMCURE/consolidated/
+Emmvee Photovoltaic Power Ltd.,EMMVEE,Capital Goods,Manufacturing,NIFTY_SMALLCAP_250,https://www.screener.in/company/EMMVEE/consolidated/
+Engineers India Ltd.,ENGINERSIN,Construction,Manufacturing,NIFTY_SMALLCAP_250,https://www.screener.in/company/ENGINERSIN/consolidated/
+Eris Lifesciences Ltd.,ERIS,Healthcare,Pharma,NIFTY_SMALLCAP_250,https://www.screener.in/company/ERIS/consolidated/
+Fertilisers and Chemicals Travancore Ltd.,FACT,Chemicals,Chemicals,NIFTY_SMALLCAP_250,https://www.screener.in/company/FACT/consolidated/
+Finolex Cables Ltd.,FINCABLES,Capital Goods,Manufacturing,NIFTY_SMALLCAP_250,https://www.screener.in/company/FINCABLES/consolidated/
+Firstsource Solutions Ltd.,FSL,Services,Other,NIFTY_SMALLCAP_250,https://www.screener.in/company/FSL/consolidated/
+Five-Star Business Finance Ltd.,FIVESTAR,Financial Services,Banking,NIFTY_SMALLCAP_250,https://www.screener.in/company/FIVESTAR/consolidated/
+Force Motors Ltd.,FORCEMOT,Automobile and Auto Components,Manufacturing,NIFTY_SMALLCAP_250,https://www.screener.in/company/FORCEMOT/consolidated/
+Gabriel India Ltd.,GABRIEL,Automobile and Auto Components,Manufacturing,NIFTY_SMALLCAP_250,https://www.screener.in/company/GABRIEL/consolidated/
+Gallantt Ispat Ltd.,GALLANTT,Capital Goods,Manufacturing,NIFTY_SMALLCAP_250,https://www.screener.in/company/GALLANTT/consolidated/
+Garden Reach Shipbuilders & Engineers Ltd.,GRSE,Capital Goods,Manufacturing,NIFTY_SMALLCAP_250,https://www.screener.in/company/GRSE/consolidated/
+Gillette India Ltd.,GILLETTE,Fast Moving Consumer Goods,Other,NIFTY_SMALLCAP_250,https://www.screener.in/company/GILLETTE/consolidated/
+Gland Pharma Ltd.,GLAND,Healthcare,Pharma,NIFTY_SMALLCAP_250,https://www.screener.in/company/GLAND/consolidated/
+Go Digit General Insurance Ltd.,GODIGIT,Financial Services,Banking,NIFTY_SMALLCAP_250,https://www.screener.in/company/GODIGIT/consolidated/
+Godawari Power & Ispat Ltd.,GPIL,Capital Goods,Manufacturing,NIFTY_SMALLCAP_250,https://www.screener.in/company/GPIL/consolidated/
+Granules India Ltd.,GRANULES,Healthcare,Pharma,NIFTY_SMALLCAP_250,https://www.screener.in/company/GRANULES/consolidated/
+Graphite India Ltd.,GRAPHITE,Capital Goods,Manufacturing,NIFTY_SMALLCAP_250,https://www.screener.in/company/GRAPHITE/consolidated/
+Gravita India Ltd.,GRAVITA,Metals & Mining,Manufacturing,NIFTY_SMALLCAP_250,https://www.screener.in/company/GRAVITA/consolidated/
+Great Eastern Shipping Co. Ltd.,GESHIP,Services,Other,NIFTY_SMALLCAP_250,https://www.screener.in/company/GESHIP/consolidated/
+Gujarat Mineral Development Corporation Ltd.,GMDCLTD,Metals & Mining,Manufacturing,NIFTY_SMALLCAP_250,https://www.screener.in/company/GMDCLTD/consolidated/
+HBL Engineering Ltd.,HBLENGINE,Capital Goods,Manufacturing,NIFTY_SMALLCAP_250,https://www.screener.in/company/HBLENGINE/consolidated/
+HEG Ltd.,HEG,Capital Goods,Manufacturing,NIFTY_SMALLCAP_250,https://www.screener.in/company/HEG/consolidated/
+HFCL Ltd.,HFCL,Telecommunication,Other,NIFTY_SMALLCAP_250,https://www.screener.in/company/HFCL/consolidated/
+Himadri Speciality Chemical Ltd.,HSCL,Chemicals,Chemicals,NIFTY_SMALLCAP_250,https://www.screener.in/company/HSCL/consolidated/
+Hindustan Copper Ltd.,HINDCOPPER,Metals & Mining,Manufacturing,NIFTY_SMALLCAP_250,https://www.screener.in/company/HINDCOPPER/consolidated/
+Home First Finance Company India Ltd.,HOMEFIRST,Financial Services,Banking,NIFTY_SMALLCAP_250,https://www.screener.in/company/HOMEFIRST/consolidated/
+Honasa Consumer Ltd.,HONASA,Fast Moving Consumer Goods,Other,NIFTY_SMALLCAP_250,https://www.screener.in/company/HONASA/consolidated/
+IDBI Bank Ltd.,IDBI,Financial Services,Banking,NIFTY_SMALLCAP_250,https://www.screener.in/company/IDBI/consolidated/
+IFCI Ltd.,IFCI,Financial Services,Banking,NIFTY_SMALLCAP_250,https://www.screener.in/company/IFCI/consolidated/
+IIFL Finance Ltd.,IIFL,Financial Services,Banking,NIFTY_SMALLCAP_250,https://www.screener.in/company/IIFL/consolidated/
+IRB Infrastructure Developers Ltd.,IRB,Construction,Manufacturing,NIFTY_SMALLCAP_250,https://www.screener.in/company/IRB/consolidated/
+IRCON International Ltd.,IRCON,Construction,Manufacturing,NIFTY_SMALLCAP_250,https://www.screener.in/company/IRCON/consolidated/
+ITI Ltd.,ITI,Telecommunication,Other,NIFTY_SMALLCAP_250,https://www.screener.in/company/ITI/consolidated/
+Indegene Ltd.,INDGN,Healthcare,Pharma,NIFTY_SMALLCAP_250,https://www.screener.in/company/INDGN/consolidated/
+India Cements Ltd.,INDIACEM,Construction Materials,Manufacturing,NIFTY_SMALLCAP_250,https://www.screener.in/company/INDIACEM/consolidated/
+Indiamart Intermesh Ltd.,INDIAMART,Consumer Services,Other,NIFTY_SMALLCAP_250,https://www.screener.in/company/INDIAMART/consolidated/
+Indian Energy Exchange Ltd.,IEX,Financial Services,Banking,NIFTY_SMALLCAP_250,https://www.screener.in/company/IEX/consolidated/
+Indian Overseas Bank,IOB,Financial Services,Banking,NIFTY_SMALLCAP_250,https://www.screener.in/company/IOB/consolidated/
+Indraprastha Gas Ltd.,IGL,Oil Gas & Consumable Fuels,Other,NIFTY_SMALLCAP_250,https://www.screener.in/company/IGL/consolidated/
+Inox Wind Ltd.,INOXWIND,Capital Goods,Manufacturing,NIFTY_SMALLCAP_250,https://www.screener.in/company/INOXWIND/consolidated/
+Intellect Design Arena Ltd.,INTELLECT,Information Technology,IT,NIFTY_SMALLCAP_250,https://www.screener.in/company/INTELLECT/consolidated/
+International Gemological Institute Ltd.,IGIL,Services,Other,NIFTY_SMALLCAP_250,https://www.screener.in/company/IGIL/consolidated/
+Inventurus Knowledge Solutions Ltd.,IKS,Information Technology,IT,NIFTY_SMALLCAP_250,https://www.screener.in/company/IKS/consolidated/
+JBM Auto Ltd.,JBMA,Automobile and Auto Components,Manufacturing,NIFTY_SMALLCAP_250,https://www.screener.in/company/JBMA/consolidated/
+JK Tyre & Industries Ltd.,JKTYRE,Automobile and Auto Components,Manufacturing,NIFTY_SMALLCAP_250,https://www.screener.in/company/JKTYRE/consolidated/
+JM Financial Ltd.,JMFINANCIL,Financial Services,Banking,NIFTY_SMALLCAP_250,https://www.screener.in/company/JMFINANCIL/consolidated/
+JSW Cement Ltd.,JSWCEMENT,Construction Materials,Manufacturing,NIFTY_SMALLCAP_250,https://www.screener.in/company/JSWCEMENT/consolidated/
+JSW Dulux Ltd.,JSWDULUX,Consumer Durables,Manufacturing,NIFTY_SMALLCAP_250,https://www.screener.in/company/JSWDULUX/consolidated/
+Jain Resource Recycling Ltd.,JAINREC,Metals & Mining,Manufacturing,NIFTY_SMALLCAP_250,https://www.screener.in/company/JAINREC/consolidated/
+Jaiprakash Power Ventures Ltd.,JPPOWER,Power,Other,NIFTY_SMALLCAP_250,https://www.screener.in/company/JPPOWER/consolidated/
+Jammu & Kashmir Bank Ltd.,J&KBANK,Financial Services,Banking,NIFTY_SMALLCAP_250,https://www.screener.in/company/J&KBANK/consolidated/
+Jindal Saw Ltd.,JINDALSAW,Capital Goods,Manufacturing,NIFTY_SMALLCAP_250,https://www.screener.in/company/JINDALSAW/consolidated/
+Jubilant Ingrevia Ltd.,JUBLINGREA,Chemicals,Chemicals,NIFTY_SMALLCAP_250,https://www.screener.in/company/JUBLINGREA/consolidated/
+Jubilant Pharmova Ltd.,JUBLPHARMA,Healthcare,Pharma,NIFTY_SMALLCAP_250,https://www.screener.in/company/JUBLPHARMA/consolidated/
+Jupiter Wagons Ltd.,JWL,Capital Goods,Manufacturing,NIFTY_SMALLCAP_250,https://www.screener.in/company/JWL/consolidated/
+Jyoti CNC Automation Ltd.,JYOTICNC,Capital Goods,Manufacturing,NIFTY_SMALLCAP_250,https://www.screener.in/company/JYOTICNC/consolidated/
+Kajaria Ceramics Ltd.,KAJARIACER,Consumer Durables,Manufacturing,NIFTY_SMALLCAP_250,https://www.screener.in/company/KAJARIACER/consolidated/
+Kalpataru Projects International Ltd.,KPIL,Construction,Manufacturing,NIFTY_SMALLCAP_250,https://www.screener.in/company/KPIL/consolidated/
+Karur Vysya Bank Ltd.,KARURVYSYA,Financial Services,Banking,NIFTY_SMALLCAP_250,https://www.screener.in/company/KARURVYSYA/consolidated/
+Kaynes Technology India Ltd.,KAYNES,Capital Goods,Manufacturing,NIFTY_SMALLCAP_250,https://www.screener.in/company/KAYNES/consolidated/
+Kec International Ltd.,KEC,Construction,Manufacturing,NIFTY_SMALLCAP_250,https://www.screener.in/company/KEC/consolidated/
+Kfin Technologies Ltd.,KFINTECH,Financial Services,Banking,NIFTY_SMALLCAP_250,https://www.screener.in/company/KFINTECH/consolidated/
+Kirloskar Oil Eng Ltd.,KIRLOSENG,Capital Goods,Manufacturing,NIFTY_SMALLCAP_250,https://www.screener.in/company/KIRLOSENG/consolidated/
+Krishna Institute of Medical Sciences Ltd.,KIMS,Healthcare,Pharma,NIFTY_SMALLCAP_250,https://www.screener.in/company/KIMS/consolidated/
+LT Foods Ltd.,LTFOODS,Fast Moving Consumer Goods,Other,NIFTY_SMALLCAP_250,https://www.screener.in/company/LTFOODS/consolidated/
+Latent View Analytics Ltd.,LATENTVIEW,Information Technology,IT,NIFTY_SMALLCAP_250,https://www.screener.in/company/LATENTVIEW/consolidated/
+Leela Palaces Hotels & Resorts Ltd.,THELEELA,Consumer Services,Other,NIFTY_SMALLCAP_250,https://www.screener.in/company/THELEELA/consolidated/
+Lemon Tree Hotels Ltd.,LEMONTREE,Consumer Services,Other,NIFTY_SMALLCAP_250,https://www.screener.in/company/LEMONTREE/consolidated/
+MMTC Ltd.,MMTC,Services,Other,NIFTY_SMALLCAP_250,https://www.screener.in/company/MMTC/consolidated/
+Mahanagar Gas Ltd.,MGL,Oil Gas & Consumable Fuels,Other,NIFTY_SMALLCAP_250,https://www.screener.in/company/MGL/consolidated/
+Manappuram Finance Ltd.,MANAPPURAM,Financial Services,Banking,NIFTY_SMALLCAP_250,https://www.screener.in/company/MANAPPURAM/consolidated/
+Mangalore Refinery & Petrochemicals Ltd.,MRPL,Oil Gas & Consumable Fuels,Other,NIFTY_SMALLCAP_250,https://www.screener.in/company/MRPL/consolidated/
+Meesho Ltd.,MEESHO,Consumer Services,Other,NIFTY_SMALLCAP_250,https://www.screener.in/company/MEESHO/consolidated/
+Minda Corporation Ltd.,MINDACORP,Automobile and Auto Components,Manufacturing,NIFTY_SMALLCAP_250,https://www.screener.in/company/MINDACORP/consolidated/
+Motherson Sumi Wiring India Ltd.,MSUMI,Automobile and Auto Components,Manufacturing,NIFTY_SMALLCAP_250,https://www.screener.in/company/MSUMI/consolidated/
+NATCO Pharma Ltd.,NATCOPHARM,Healthcare,Pharma,NIFTY_SMALLCAP_250,https://www.screener.in/company/NATCOPHARM/consolidated/
+NBCC (India) Ltd.,NBCC,Construction,Manufacturing,NIFTY_SMALLCAP_250,https://www.screener.in/company/NBCC/consolidated/
+NCC Ltd.,NCC,Construction,Manufacturing,NIFTY_SMALLCAP_250,https://www.screener.in/company/NCC/consolidated/
+NMDC Steel Ltd.,NSLNISP,Metals & Mining,Manufacturing,NIFTY_SMALLCAP_250,https://www.screener.in/company/NSLNISP/consolidated/
+Narayana Hrudayalaya Ltd.,NH,Healthcare,Pharma,NIFTY_SMALLCAP_250,https://www.screener.in/company/NH/consolidated/
+Nava Ltd.,NAVA,Power,Other,NIFTY_SMALLCAP_250,https://www.screener.in/company/NAVA/consolidated/
+Navin Fluorine International Ltd.,NAVINFLUOR,Chemicals,Chemicals,NIFTY_SMALLCAP_250,https://www.screener.in/company/NAVINFLUOR/consolidated/
+Netweb Technologies India Ltd.,NETWEB,Information Technology,IT,NIFTY_SMALLCAP_250,https://www.screener.in/company/NETWEB/consolidated/
+Neuland Laboratories Ltd.,NEULANDLAB,Healthcare,Pharma,NIFTY_SMALLCAP_250,https://www.screener.in/company/NEULANDLAB/consolidated/
+Newgen Software Technologies Ltd.,NEWGEN,Information Technology,IT,NIFTY_SMALLCAP_250,https://www.screener.in/company/NEWGEN/consolidated/
+Niva Bupa Health Insurance Company Ltd.,NIVABUPA,Financial Services,Banking,NIFTY_SMALLCAP_250,https://www.screener.in/company/NIVABUPA/consolidated/
+Nuvama Wealth Management Ltd.,NUVAMA,Financial Services,Banking,NIFTY_SMALLCAP_250,https://www.screener.in/company/NUVAMA/consolidated/
+Nuvoco Vistas Corporation Ltd.,NUVOCO,Construction Materials,Manufacturing,NIFTY_SMALLCAP_250,https://www.screener.in/company/NUVOCO/consolidated/
+Ola Electric Mobility Ltd.,OLAELEC,Automobile and Auto Components,Manufacturing,NIFTY_SMALLCAP_250,https://www.screener.in/company/OLAELEC/consolidated/
+Olectra Greentech Ltd.,OLECTRA,Automobile and Auto Components,Manufacturing,NIFTY_SMALLCAP_250,https://www.screener.in/company/OLECTRA/consolidated/
+Onesource Specialty Pharma Ltd.,ONESOURCE,Healthcare,Pharma,NIFTY_SMALLCAP_250,https://www.screener.in/company/ONESOURCE/consolidated/
+PCBL Chemical Ltd.,PCBL,Chemicals,Chemicals,NIFTY_SMALLCAP_250,https://www.screener.in/company/PCBL/consolidated/
+PG Electroplast Ltd.,PGEL,Consumer Durables,Manufacturing,NIFTY_SMALLCAP_250,https://www.screener.in/company/PGEL/consolidated/
+PNB Housing Finance Ltd.,PNBHOUSING,Financial Services,Banking,NIFTY_SMALLCAP_250,https://www.screener.in/company/PNBHOUSING/consolidated/
+PTC Industries Ltd.,PTCIL,Capital Goods,Manufacturing,NIFTY_SMALLCAP_250,https://www.screener.in/company/PTCIL/consolidated/
+PVR INOX Ltd.,PVRINOX,Media Entertainment & Publication,Other,NIFTY_SMALLCAP_250,https://www.screener.in/company/PVRINOX/consolidated/
+Paradeep Phosphates Ltd.,PARADEEP,Chemicals,Chemicals,NIFTY_SMALLCAP_250,https://www.screener.in/company/PARADEEP/consolidated/
+Pfizer Ltd.,PFIZER,Healthcare,Pharma,NIFTY_SMALLCAP_250,https://www.screener.in/company/PFIZER/consolidated/
+Physicswallah Ltd.,PWL,Consumer Services,Other,NIFTY_SMALLCAP_250,https://www.screener.in/company/PWL/consolidated/
+Pine Labs Ltd.,PINELABS,Financial Services,Banking,NIFTY_SMALLCAP_250,https://www.screener.in/company/PINELABS/consolidated/
+Piramal Finance Ltd.,PIRAMALFIN,Financial Services,Banking,NIFTY_SMALLCAP_250,https://www.screener.in/company/PIRAMALFIN/consolidated/
+Piramal Pharma Ltd.,PPLPHARMA,Healthcare,Pharma,NIFTY_SMALLCAP_250,https://www.screener.in/company/PPLPHARMA/consolidated/
+Poly Medicure Ltd.,POLYMED,Healthcare,Pharma,NIFTY_SMALLCAP_250,https://www.screener.in/company/POLYMED/consolidated/
+Poonawalla Fincorp Ltd.,POONAWALLA,Financial Services,Banking,NIFTY_SMALLCAP_250,https://www.screener.in/company/POONAWALLA/consolidated/
+Prime Focus Ltd.,PFOCUS,Media Entertainment & Publication,Other,NIFTY_SMALLCAP_250,https://www.screener.in/company/PFOCUS/consolidated/
+R R Kabel Ltd.,RRKABEL,Capital Goods,Manufacturing,NIFTY_SMALLCAP_250,https://www.screener.in/company/RRKABEL/consolidated/
+RBL Bank Ltd.,RBLBANK,Financial Services,Banking,NIFTY_SMALLCAP_250,https://www.screener.in/company/RBLBANK/consolidated/
+RHI MAGNESITA INDIA LTD.,RHIM,Capital Goods,Manufacturing,NIFTY_SMALLCAP_250,https://www.screener.in/company/RHIM/consolidated/
+RITES Ltd.,RITES,Construction,Manufacturing,NIFTY_SMALLCAP_250,https://www.screener.in/company/RITES/consolidated/
+Railtel Corporation Of India Ltd.,RAILTEL,Telecommunication,Other,NIFTY_SMALLCAP_250,https://www.screener.in/company/RAILTEL/consolidated/
+Rainbow Childrens Medicare Ltd.,RAINBOW,Healthcare,Pharma,NIFTY_SMALLCAP_250,https://www.screener.in/company/RAINBOW/consolidated/
+Ramkrishna Forgings Ltd.,RKFORGE,Automobile and Auto Components,Manufacturing,NIFTY_SMALLCAP_250,https://www.screener.in/company/RKFORGE/consolidated/
+Redington Ltd.,REDINGTON,Services,Other,NIFTY_SMALLCAP_250,https://www.screener.in/company/REDINGTON/consolidated/
+Reliance Power Ltd.,RPOWER,Power,Other,NIFTY_SMALLCAP_250,https://www.screener.in/company/RPOWER/consolidated/
+SBFC Finance Ltd.,SBFC,Financial Services,Banking,NIFTY_SMALLCAP_250,https://www.screener.in/company/SBFC/consolidated/
+Sagility Ltd.,SAGILITY,Information Technology,IT,NIFTY_SMALLCAP_250,https://www.screener.in/company/SAGILITY/consolidated/
+Sai Life Sciences Ltd.,SAILIFE,Healthcare,Pharma,NIFTY_SMALLCAP_250,https://www.screener.in/company/SAILIFE/consolidated/
+Sammaan Capital Ltd.,SAMMAANCAP,Financial Services,Banking,NIFTY_SMALLCAP_250,https://www.screener.in/company/SAMMAANCAP/consolidated/
+Sapphire Foods India Ltd.,SAPPHIRE,Consumer Services,Other,NIFTY_SMALLCAP_250,https://www.screener.in/company/SAPPHIRE/consolidated/
+Sarda Energy and Minerals Ltd.,SARDAEN,Metals & Mining,Manufacturing,NIFTY_SMALLCAP_250,https://www.screener.in/company/SARDAEN/consolidated/
+Saregama India Ltd,SAREGAMA,Media Entertainment & Publication,Other,NIFTY_SMALLCAP_250,https://www.screener.in/company/SAREGAMA/consolidated/
+Schneider Electric Infrastructure Ltd.,SCHNEIDER,Capital Goods,Manufacturing,NIFTY_SMALLCAP_250,https://www.screener.in/company/SCHNEIDER/consolidated/
+Shipping Corporation of India Ltd.,SCI,Services,Other,NIFTY_SMALLCAP_250,https://www.screener.in/company/SCI/consolidated/
+Shyam Metalics and Energy Ltd.,SHYAMMETL,Capital Goods,Manufacturing,NIFTY_SMALLCAP_250,https://www.screener.in/company/SHYAMMETL/consolidated/
+Signatureglobal (India) Ltd.,SIGNATURE,Realty,Other,NIFTY_SMALLCAP_250,https://www.screener.in/company/SIGNATURE/consolidated/
+Sobha Ltd.,SOBHA,Realty,Other,NIFTY_SMALLCAP_250,https://www.screener.in/company/SOBHA/consolidated/
+Sona BLW Precision Forgings Ltd.,SONACOMS,Automobile and Auto Components,Manufacturing,NIFTY_SMALLCAP_250,https://www.screener.in/company/SONACOMS/consolidated/
+Sonata Software Ltd.,SONATSOFTW,Information Technology,IT,NIFTY_SMALLCAP_250,https://www.screener.in/company/SONATSOFTW/consolidated/
+Star Health and Allied Insurance Company Ltd.,STARHEALTH,Financial Services,Banking,NIFTY_SMALLCAP_250,https://www.screener.in/company/STARHEALTH/consolidated/
+Sumitomo Chemical India Ltd.,SUMICHEM,Chemicals,Chemicals,NIFTY_SMALLCAP_250,https://www.screener.in/company/SUMICHEM/consolidated/
+Sun TV Network Ltd.,SUNTV,Media Entertainment & Publication,Other,NIFTY_SMALLCAP_250,https://www.screener.in/company/SUNTV/consolidated/
+Supreme Petrochem Ltd.,SPLPETRO,Chemicals,Chemicals,NIFTY_SMALLCAP_250,https://www.screener.in/company/SPLPETRO/consolidated/
+Swan Corp Ltd.,SWANCORP,Chemicals,Chemicals,NIFTY_SMALLCAP_250,https://www.screener.in/company/SWANCORP/consolidated/
+Syngene International Ltd.,SYNGENE,Healthcare,Pharma,NIFTY_SMALLCAP_250,https://www.screener.in/company/SYNGENE/consolidated/
+Syrma SGS Technology Ltd.,SYRMA,Capital Goods,Manufacturing,NIFTY_SMALLCAP_250,https://www.screener.in/company/SYRMA/consolidated/
+TBO Tek Ltd.,TBOTEK,Consumer Services,Other,NIFTY_SMALLCAP_250,https://www.screener.in/company/TBOTEK/consolidated/
+Tata Chemicals Ltd.,TATACHEM,Chemicals,Chemicals,NIFTY_SMALLCAP_250,https://www.screener.in/company/TATACHEM/consolidated/
+Tata Technologies Ltd.,TATATECH,Information Technology,IT,NIFTY_SMALLCAP_250,https://www.screener.in/company/TATATECH/consolidated/
+Tata Teleservices (Maharashtra) Ltd.,TTML,Telecommunication,Other,NIFTY_SMALLCAP_250,https://www.screener.in/company/TTML/consolidated/
+Techno Electric & Engineering Company Ltd.,TECHNOE,Construction,Manufacturing,NIFTY_SMALLCAP_250,https://www.screener.in/company/TECHNOE/consolidated/
+Tega Industries Ltd.,TEGA,Capital Goods,Manufacturing,NIFTY_SMALLCAP_250,https://www.screener.in/company/TEGA/consolidated/
+Tejas Networks Ltd.,TEJASNET,Telecommunication,Other,NIFTY_SMALLCAP_250,https://www.screener.in/company/TEJASNET/consolidated/
+Tenneco Clean Air India Ltd.,TENNIND,Automobile and Auto Components,Manufacturing,NIFTY_SMALLCAP_250,https://www.screener.in/company/TENNIND/consolidated/
+The Ramco Cements Ltd.,RAMCOCEM,Construction Materials,Manufacturing,NIFTY_SMALLCAP_250,https://www.screener.in/company/RAMCOCEM/consolidated/
+Timken India Ltd.,TIMKEN,Capital Goods,Manufacturing,NIFTY_SMALLCAP_250,https://www.screener.in/company/TIMKEN/consolidated/
+Titagarh Rail Systems Ltd.,TITAGARH,Capital Goods,Manufacturing,NIFTY_SMALLCAP_250,https://www.screener.in/company/TITAGARH/consolidated/
+Transformers And Rectifiers (India) Ltd.,TARIL,Capital Goods,Manufacturing,NIFTY_SMALLCAP_250,https://www.screener.in/company/TARIL/consolidated/
+Travel Food Services Ltd.,TRAVELFOOD,Consumer Services,Other,NIFTY_SMALLCAP_250,https://www.screener.in/company/TRAVELFOOD/consolidated/
+Trident Ltd.,TRIDENT,Textiles,Manufacturing,NIFTY_SMALLCAP_250,https://www.screener.in/company/TRIDENT/consolidated/
+Triveni Turbine Ltd.,TRITURBINE,Capital Goods,Manufacturing,NIFTY_SMALLCAP_250,https://www.screener.in/company/TRITURBINE/consolidated/
+UCO Bank,UCOBANK,Financial Services,Banking,NIFTY_SMALLCAP_250,https://www.screener.in/company/UCOBANK/consolidated/
+UTI Asset Management Company Ltd.,UTIAMC,Financial Services,Banking,NIFTY_SMALLCAP_250,https://www.screener.in/company/UTIAMC/consolidated/
+Urban Company Ltd.,URBANCO,Consumer Services,Other,NIFTY_SMALLCAP_250,https://www.screener.in/company/URBANCO/consolidated/
+Usha Martin Ltd.,USHAMART,Capital Goods,Manufacturing,NIFTY_SMALLCAP_250,https://www.screener.in/company/USHAMART/consolidated/
+Vardhman Textiles Ltd.,VTL,Textiles,Manufacturing,NIFTY_SMALLCAP_250,https://www.screener.in/company/VTL/consolidated/
+Vijaya Diagnostic Centre Ltd.,VIJAYA,Healthcare,Pharma,NIFTY_SMALLCAP_250,https://www.screener.in/company/VIJAYA/consolidated/
+Welspun Corp Ltd.,WELCORP,Capital Goods,Manufacturing,NIFTY_SMALLCAP_250,https://www.screener.in/company/WELCORP/consolidated/
+Welspun Living Ltd.,WELSPUNLIV,Textiles,Manufacturing,NIFTY_SMALLCAP_250,https://www.screener.in/company/WELSPUNLIV/consolidated/
+Whirlpool of India Ltd.,WHIRLPOOL,Consumer Durables,Manufacturing,NIFTY_SMALLCAP_250,https://www.screener.in/company/WHIRLPOOL/consolidated/
+Wockhardt Ltd.,WOCKPHARMA,Healthcare,Pharma,NIFTY_SMALLCAP_250,https://www.screener.in/company/WOCKPHARMA/consolidated/
+ZF Commercial Vehicle Control Systems India Ltd.,ZFCVINDIA,Automobile and Auto Components,Manufacturing,NIFTY_SMALLCAP_250,https://www.screener.in/company/ZFCVINDIA/consolidated/
+Zee Entertainment Enterprises Ltd.,ZEEL,Media Entertainment & Publication,Other,NIFTY_SMALLCAP_250,https://www.screener.in/company/ZEEL/consolidated/
+Zen Technologies Ltd.,ZENTEC,Capital Goods,Manufacturing,NIFTY_SMALLCAP_250,https://www.screener.in/company/ZENTEC/consolidated/
+Zensar Technolgies Ltd.,ZENSARTECH,Information Technology,IT,NIFTY_SMALLCAP_250,https://www.screener.in/company/ZENSARTECH/consolidated/
+Zydus Wellness Ltd.,ZYDUSWELL,Fast Moving Consumer Goods,Other,NIFTY_SMALLCAP_250,https://www.screener.in/company/ZYDUSWELL/consolidated/
+eClerx Services Ltd.,ECLERX,Services,Other,NIFTY_SMALLCAP_250,https://www.screener.in/company/ECLERX/consolidated/
